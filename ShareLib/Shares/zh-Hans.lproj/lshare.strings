@@ -1,0 +1,49 @@
+/* 
+  lshare.strings
+  ShareLib
+
+  Created by wangjufan on 13-9-6.
+  Copyright (c) 2013年 wangjufan. All rights reserved.
+*/
+
+
+
+//////////////////////////////////////////////////////////////////////
+//分享
+
+//返回结果
+"ZS_ShareResult_TypeUndefined_Info"  =   "不识别的分享类型";
+"ZS_ShareResult_CalledMultiTime_Info"  =   "多次调用错误";
+
+
+//提示信息
+"ZS_Share_AlertMessageKey"  =   "ZS_Share_AlertMessageKey";
+"ZS_Share_AlertTitleKey"  =   "ZS_Share_AlertTitleKey";
+
+
+// 邮件
+"ZS_Share_MailTitle"  =   "邮件账号提示";
+
+"ZS_Share_MailInfo_NoAccount"  =   "请在系统设置中添加邮件账号";
+"ZS_Share_MailInfo_DeviceUnable"  =   "设备不具备发送邮件功能";
+"ZS_Share_MailInfo_DeviceOK"  =   "发送成功";
+
+"ZS_Share_MailInfo_Send_Cancel"  =   "取消发送邮件";
+"ZS_Share_MailInfo_Send_SaveToDraft"  =   "邮件保存到草稿";
+"ZS_Share_MailInfo_Send_Ok"  =   "邮件发送成功";
+"ZS_Share_MailInfo_Send_Failed"  =   "邮件发送失败";
+"ZS_Share_MailInfo_Send_NotSend"  =   "邮件没有发送";
+
+
+//短信分享
+"ZS_Share_MessageTitle"  =   "短信功能提示";
+
+"ZS_Share_MessageInfo_Device_Unable"  =   "设备不具备发送短信功能";
+"ZS_Share_MessageInfo_Device_OK"  =   "设备可以发送短信";
+"ZS_Share_MessageInfo_System_Failed"  =   "系统调用失败";
+
+"ZS_Share_MessageInfo_Send_OK"  =   "成功发送短信";
+"ZS_Share_MessageInfo_Send_Failed"  =   "短信发送失败";
+"ZS_Share_MessageInfo_Send_Cancel"  =   "取消发送短信";
+"ZS_Share_MessageInfo_Send_NotSend"  =   "短信没有发送";
+

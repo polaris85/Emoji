@@ -1,0 +1,59 @@
+/* 
+  lshare.strings
+  ShareLib
+
+  Created by wangjufan on 13-9-6.
+  Copyright (c) 2013年 wangjufan. All rights reserved.
+*/
+
+/*
+ lshare.strings
+ weibo
+ 
+ Created by zs on 13-9-6.
+ 
+ */
+
+
+//////////////////////////////////////////////////////////////////////
+//分享
+
+
+//提示信息
+"ZS_Share_AlertMessageKey"  =   "ZS_Share_AlertMessageKey";
+"ZS_Share_AlertTitleKey"  =   "ZS_Share_AlertTitleKey";
+
+
+//返回结果
+"ZS_ShareResult_TypeUndefined_Info"  =   "unexist share type";
+"ZS_ShareResult_CalledMultiTime_Info"  =   "share multi times called error";
+
+
+// 邮件
+"ZS_Share_MailTitle"  =   "accunt alert";
+
+"ZS_Share_MailInfo_NoAccount"  =   "mail account not exist in device";
+"ZS_Share_MailInfo_DeviceUnable"  =   "mail device unsupported";
+"ZS_Share_MailInfo_DeviceOK"  =   "mail device supported";
+
+"ZS_Share_MailInfo_Send_Cancel"  =   "mail sending cancelled";
+"ZS_Share_MailInfo_Send_SaveToDraft"  =   "mail saved to draft";
+"ZS_Share_MailInfo_Send_Ok"  =   "mail sending ok";
+"ZS_Share_MailInfo_Send_Failed"  =   "mail sending failed";
+"ZS_Share_MailInfo_Send_NotSend"  =   "mail not sent";
+
+
+//短信分享
+"ZS_Share_MessageTitle"  =   "message alert";
+
+"ZS_Share_MessageInfo_Device_Unable"  =   "message device unsupported";
+"ZS_Share_MessageInfo_Device_OK"  =   "message device supported";
+"ZS_Share_MessageInfo_System_Failed"  =   "message os unsupported";
+
+"ZS_Share_MessageInfo_Send_OK"  =   "message sending ok";
+"ZS_Share_MessageInfo_Send_Failed"  =   "message sending failed";
+"ZS_Share_MessageInfo_Send_Cancel"  =   "message cancelled";
+"ZS_Share_MessageInfo_Send_NotSend"  =   "message not sent";
+
+
+
